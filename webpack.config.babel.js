@@ -8,7 +8,6 @@ const production = process.env.NODE_ENV === 'production'
 const config = {
     target: 'web',
     entry: [
-        'immutable',
         './src/ContentMD5DynamicValue.js'
     ],
     output: {
