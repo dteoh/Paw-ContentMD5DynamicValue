@@ -2,6 +2,12 @@
 
 A Paw extension for calculating the Content-MD5 header value.
 
+## Install
+
+Download from the releases page, unzip, and copy the
+`com.dteoh.PawExtensions.ContentMD5DynamicValue` directory into your Paw
+extensions directory.
+
 ## Development
 
 ### Prerequisites
@@ -16,8 +22,7 @@ yarn install
 yarn run build
 ```
 
-### Install
+## License
 
-Copy `com.dteoh.PawExtensions.ContentMD5DynamicValue` directory from the
-`build` directory to your Paw extensions directory.
+MIT
 
